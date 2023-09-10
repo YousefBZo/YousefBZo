@@ -30,7 +30,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)](https://www.mysql.com/)
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)](https://www.java.com/)
+[![JavaFX](https://img.shields.io/badge/-JavaFX-05122A?style=flat&logo=FavaFX)](https://www.java.net/)
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)](https://www.php.net/)
+
+
 
 
 
