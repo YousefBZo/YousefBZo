@@ -69,12 +69,5 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefZaqout&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefZaqout&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
 ### 💬 Fun Fact
 > "Code is like chaos—you either control it or it controls you." 😎
