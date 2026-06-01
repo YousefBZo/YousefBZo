@@ -1,7 +1,7 @@
 <img align="right" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h1 align="center">Hi 👋, I'm Yousef Zaqout</h1>
-<h3 align="center">Full-Stack Developer | Laravel Slayer | Vue.js & PHP | Code Warrior</h3>
+<h3 align="center">Software Engineer specializing in Laravel & Backend Systems. Focused on Clean Architecture, Scalability, and System Design.</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -12,10 +12,10 @@
 ---
 
 ### 👨‍💻 Who I Am
-- ⚡ **I don’t just write code—I fix broken projects and turn ideas into battle-ready apps.**  
-- 🏢 Full-Stack dev fueled by Laravel & Vue.js, crushing bugs and messy features daily.  
-- 💥 I thrive in chaos: messy code, unclear requirements, or stalled projects—bring it on.  
-- 🌍 Collaborator? Sure. But I’m the guy who delivers when others give up.
+- 🚀 Software Engineer specializing in robust backend infrastructures using Laravel, PHP, and modern database management systems. 
+- 🧠 Driven by Computer Science fundamentals—applying discrete math, operating systems scheduling, and data structures to build production-ready applications.  
+- 🧼 Committed to Clean Code, SOLID design principles, and automated testing to ensure zero-downtime deployments and long-term codebase maintainability.  
+- 💼 Business-oriented mind: Building software architectures that reduce server infrastructure costs and accelerate business growth.
 
 ---
 
